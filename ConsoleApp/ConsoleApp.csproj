@@ -45,6 +45,7 @@
     <Compile Include="Combination\Comb.cs" />
     <Compile Include="Permutation\Perm.cs" />
     <Compile Include="Practices\FrogJmp.cs" />
+    <Compile Include="Practices\MaxCounters.cs" />
     <Compile Include="Practices\PermMissingElem.cs" />
     <Compile Include="Practices\PrimeNumber.cs" />
     <Compile Include="Practices\TapeEquilibrium.cs" />

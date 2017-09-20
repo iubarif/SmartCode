@@ -55,6 +55,7 @@
     <Compile Include="CombinationTest.cs" />
     <Compile Include="PermMissingElemTest.cs" />
     <Compile Include="TapeEquilibriumTest.cs" />
+    <Compile Include="MaxCountersTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
