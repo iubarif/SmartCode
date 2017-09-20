@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Combination\Comb.cs" />
+    <Compile Include="Permutation\Perm.cs" />
+    <Compile Include="Practices\FrogJmp.cs" />
+    <Compile Include="Practices\PermMissingElem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
