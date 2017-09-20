@@ -25,7 +25,12 @@ namespace ConsoleApp.Practices
             return returnVal;
         }
 
-        public void GeneratePrimeNumbers(int size) {
+        public int[] GeneratePrimeNumbers(int size) {			
+			
+			 
+
+			
+			return null;
         }    
     }
 }
