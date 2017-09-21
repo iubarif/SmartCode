@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Combination\Comb.cs" />
     <Compile Include="Permutation\Perm.cs" />
+    <Compile Include="Practices\ArrayShift.cs" />
     <Compile Include="Practices\FrogJmp.cs" />
     <Compile Include="Practices\MaxCounters.cs" />
     <Compile Include="Practices\MissingInteger.cs" />
