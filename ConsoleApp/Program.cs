@@ -11,23 +11,11 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-			MissingInteger p = new MissingInteger();
+			MinAvgTwoSlice ms = new MinAvgTwoSlice();
 
-			int[] A = { 1, 3, 6, 4, 1, 2 };
-			Console.WriteLine(p.solution(A));
+			int[] A = { 4, 2, 2, 5, 1, 5, 8 };
 
-			int[] B = { 1, 2, 3 };
-			Console.WriteLine(p.solution(B));
-
-			int[] C = { };
-			Console.WriteLine(p.solution(C));
-
-			int[] D = { 1 };
-			Console.WriteLine(p.solution(D));
-
-			int[] E = { 2 };
-			Console.WriteLine(p.solution(E));
-
+			var x = ms.solution(A);
 
 		}
     }

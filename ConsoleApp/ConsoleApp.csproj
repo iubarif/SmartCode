@@ -48,6 +48,7 @@
     <Compile Include="Practices\CountDiv.cs" />
     <Compile Include="Practices\FrogJmp.cs" />
     <Compile Include="Practices\MaxCounters.cs" />
+    <Compile Include="Practices\MinAvgTwoSlice.cs" />
     <Compile Include="Practices\MissingInteger.cs" />
     <Compile Include="Practices\PassingCars.cs" />
     <Compile Include="Practices\PermMissingElem.cs" />
