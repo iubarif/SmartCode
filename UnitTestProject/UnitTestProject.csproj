@@ -58,6 +58,7 @@
     <Compile Include="MaxCountersTest.cs" />
     <Compile Include="MissingIntegerTest.cs" />
     <Compile Include="ArrayShiftTest.cs" />
+    <Compile Include="CountDivTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
