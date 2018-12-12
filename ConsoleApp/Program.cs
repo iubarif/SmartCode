@@ -1,4 +1,5 @@
 ﻿using ConsoleApp.Practices;
+using ConsoleApp.TopTal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,12 +12,24 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-			MinAvgTwoSlice ms = new MinAvgTwoSlice();
+            
+            Problem3 p3 = new Problem3();
 
-			int[] A = { 4, 2, 2, 5, 1, 5, 8 };
+            Console.WriteLine(p3.solution(123, 456));
+            Console.WriteLine(p3.solution(555, 555));
+            Console.WriteLine(p3.solution(900, 11));
+            Console.WriteLine(p3.solution(145, 55));
+            Console.WriteLine(p3.solution(0, 0));
 
-			var x = ms.solution(A);
+            Console.WriteLine(p3.solution(1, 99999));
+            Console.WriteLine(p3.solution(999045, 1055));
+            Console.WriteLine(p3.solution(101, 809));
+            
 
-		}
+
+
+
+
+        }
     }
 }

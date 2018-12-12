@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="C1\One.cs" />
+    <Compile Include="C1\Six.cs" />
+    <Compile Include="C1\Three.cs" />
+    <Compile Include="C1\Two.cs" />
     <Compile Include="Combination\Comb.cs" />
     <Compile Include="Permutation\Perm.cs" />
     <Compile Include="Practices\ArrayShift.cs" />
@@ -56,6 +60,9 @@
     <Compile Include="Practices\TapeEquilibrium.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopTal\Problem1.cs" />
+    <Compile Include="TopTal\Problem2.cs" />
+    <Compile Include="TopTal\Problem3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
